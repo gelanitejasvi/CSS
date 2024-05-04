@@ -1,0 +1,58 @@
+
+.padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+}
+
+div{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px; 
+}
+
+/* padding-top */
+
+ .padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+
+}
+
+/* padding-bottom */
+.padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    padding-bottom: 20px;
+
+}
+
+/* padding-right */
+.padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    padding-right: 30px;
+
+}
+
+/* padding-left */
+.padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    padding-left: 20px;
+
+} 
+
+.padding{
+    background-color: lightskyblue;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+
+}
