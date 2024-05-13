@@ -1,0 +1,58 @@
+.conatainer{
+    display: grid;
+    background-color: black;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    gap: 10px;
+}
+
+.box1{
+    background-color: pink;
+    grid-column: 1 / 5;
+}
+
+.box2{
+    background-color: pink;
+}
+
+.box3{
+    background-color: pink;
+}
+
+.box4{
+    background-color: pink;
+}
+
+.box5{
+    background-color: rgb(121, 208, 208);
+    grid-row: 2 / 5  ;
+}
+
+.box6{
+    background-color: aqua;
+}
+
+.box7{
+    background-color: aqua;
+}
+.box8{
+    background-color: aqua;
+}
+.box9{
+    background-color: brown;
+    grid-column: 2 / 5;
+}
+.box10{
+    background-color: aqua;
+}
+.box11{
+    background-color: aqua;
+}
+
+.box12{
+    background-color: aqua;
+}
+
+.box13{
+    background-color: aqua;
+}
